@@ -3139,8 +3139,8 @@
       "type": "select",
       "include-all-providers": true,
       "proxies": [
-        "🚀全球代理",
         "🎯全球直连",
+        "🚀全球代理",
         "♻️自动选择",
         "⚡️均衡负载",
         "🔯故障转移",
