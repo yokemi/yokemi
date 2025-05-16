@@ -365,7 +365,7 @@
     "fake-ip-range": "198.18.0.0/16",
     "fake-ip-filter-mode": "blacklist",
     "fake-ip-filter": [
-      "RULE-SET:Private,Fakeip_Filter,China"
+      "RULE-SET:Private,Fakeip_Filter"
     ],
     "nameserver-policy": {
       "github.akams.cn": [
